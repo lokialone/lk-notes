@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.webview {
+  position:fixed; width:40%; height:100%;
+  border: none;
+  box-shadow:0px 0px 20px #ABABAB;
+  right: 10px;
+  top: 20px;
+}
